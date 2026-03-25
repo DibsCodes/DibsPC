@@ -1,5 +1,5 @@
 # DibsPC
-N## 1. On First Boot
+## 1. On First Boot
 Shift+F10 to open command prompt during setup. Run the following commands:
 
 ```bash
