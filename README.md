@@ -134,7 +134,7 @@ Download the *Icons and Wallpapers* folder from this repo. Set the background to
 ## 8. Install Apps
 Open terminal as an admin and install apps using the following script
 ```bash
-winget install VideoLAN.VLC Discord.Discord Microsoft.PowerToys 9P1741LKHQS9 7zip.7zip Upscayl.Upscayl gimp.gimp.3 OBSProject.OBSStudio audacity.audacity Zen-Team.Zen-Browser Google.Antigravity Microsoft.VisualStudioCode Zoom.Zoom valinet.ExplorerPatcher
+winget install VideoLAN.VLC Discord.Discord Microsoft.PowerToys 9P1741LKHQS9 7zip.7zip Upscayl.Upscayl gimp.gimp.3 OBSProject.OBSStudio audacity.audacity Zen-Team.Zen-Browser TheBrowserCompany.Arc Google.Antigravity Microsoft.VisualStudioCode Zoom.Zoom valinet.ExplorerPatcher
 ```
 Install the following apps manually:
 - Messages for Web
