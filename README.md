@@ -75,7 +75,7 @@ Install the following apps manually:
 ## 8. Settings Changes
 *Manual for now...need to automate*
 
-# System
+### System
 **Power and Battery**
 - Set 30min timeout
 **Multitasking**
@@ -92,14 +92,14 @@ Install the following apps manually:
 **Clipboard**
 - Clipboard History On
   
-# Bluetooth and Devices
+### Bluetooth and Devices
 **Mouse**
 - set mouse cursor theme to Volantes Dark
 **Touchpad**
 - disable lower right hand corner trackpad click
 - set three finger gesture to "Change Audio and Volume"
 
-# Personalization
+### Personalization
 **Background**
 - Set Background Image
 **Colors**
@@ -125,6 +125,6 @@ Install the following apps manually:
 - Widgets Off
 - Combine Taskbar Buttons = Never
 
-# Accounts
+### Accounts
 - Set Photo
 
