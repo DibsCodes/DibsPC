@@ -62,17 +62,7 @@ Download the *Cursors* folder from this repo and click on the install.inf file t
 ## 6. Set up Background and Account Profile Icon
 Download the *Icons and Wallpapers* folder from this repo. Set the background to the wallpaper you want and set the account profile icon to the icon you want.
 
-## 7. Install Apps
-Open terminal as an admin and install apps using the following script
-```bash
-winget install VideoLAN.VLC Discord.Discord Microsoft.PowerToys 9P1741LKHQS9 7zip.7zip Upscayl.Upscayl gimp.gimp.3 OBSProject.OBSStudio audacity.audacity Zen-Team.Zen-Browser Google.Antigravity Microsoft.VisualStudioCode Zoom.Zoom valinet.ExplorerPatcher
-```
-Install the following apps manually:
-- Messages for Web
-- WabbitEmu (See folder uploaded to this repo)
-- Davinci Resolve
-
-## 8. Settings Changes
+## 7. Settings Changes
 *Manual for now...need to automate*
 
 ### System
@@ -102,15 +92,19 @@ Install the following apps manually:
 ### Personalization
 **Background**
 - Set Background Image
+
 **Colors**
 - Set Accent Color to Rust
+
 **Themes**
 - Desktop Icon Settings / Remove Recycling Bin
+
 **Lockscreen**
 - Set to Picture
 - Set Photo
 - Lock Screen Status set to none
-- Uncheck "Get fun facts..."  
+- Uncheck "Get fun facts..."
+
 **Start**
 - More Recommendations
 - Turn off Tips
@@ -119,6 +113,7 @@ Install the following apps manually:
   - Settings
   - File Explorer
   - Downloads
+
 **Taskbar**
 - Searchbox Off
 - Taskview Off
@@ -128,3 +123,12 @@ Install the following apps manually:
 ### Accounts
 - Set Photo
 
+## 8. Install Apps
+Open terminal as an admin and install apps using the following script
+```bash
+winget install VideoLAN.VLC Discord.Discord Microsoft.PowerToys 9P1741LKHQS9 7zip.7zip Upscayl.Upscayl gimp.gimp.3 OBSProject.OBSStudio audacity.audacity Zen-Team.Zen-Browser Google.Antigravity Microsoft.VisualStudioCode Zoom.Zoom valinet.ExplorerPatcher
+```
+Install the following apps manually:
+- Messages for Web
+- WabbitEmu (See folder uploaded to this repo)
+- Davinci Resolve
