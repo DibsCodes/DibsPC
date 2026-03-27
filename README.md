@@ -16,10 +16,18 @@ Press the windows key and type update. Do this and restart until there are no mo
 
 remove all programs not necessary. This often includes bloatware that comes with your system. The following script will remove certain windows programs:
 
-```bash
-Get-AppxPackage *xbox* | Remove-AppxPackage
-# more to come
-```
+- Copilot
+- Family
+- Clipchamp
+- Google Play Games
+- News
+- Teams
+- OneDrive
+- Norton/McAfee
+- Weather
+- Sticky Notes
+- Xbox Live
+- Outlook
 
 ## 3. Set up Terminal
 Install a nerd font: [Agave Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/Agave.zip)
