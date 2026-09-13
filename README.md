@@ -134,9 +134,16 @@ Download the *Icons and Wallpapers* folder from this repo. Set the background to
 ## 8. Install Apps
 Open terminal as an admin and install apps using the following script
 ```bash
-winget install VideoLAN.VLC Discord.Discord Microsoft.PowerToys 9P1741LKHQS9 7zip.7zip Upscayl.Upscayl gimp.gimp.3 OBSProject.OBSStudio audacity.audacity Brave.Brave Zen-Team.Zen-Browser Anthropic.Claude Microsoft.VisualStudioCode Zoom.Zoom valinet.ExplorerPatcher Proton.ProtonVPN Valve.Steam git.git GitHub.GitHubDesktop GitHub.cli yt-dlp.yt-dlp ImputNet.Helium cjpais.Handy 9PF4KZ2VN4W9 OpenJS.NodeJS.LTS
+winget install VideoLAN.VLC Discord.Discord Microsoft.PowerToys 9P1741LKHQS9 7zip.7zip Upscayl.Upscayl gimp.gimp.3 OBSProject.OBSStudio audacity.audacity Brave.Brave Zen-Team.Zen-Browser Anthropic.Claude Microsoft.VisualStudioCode Zoom.Zoom valinet.ExplorerPatcher Proton.ProtonVPN Valve.Steam git.git GitHub.GitHubDesktop GitHub.cli yt-dlp.yt-dlp ImputNet.Helium cjpais.Handy 9PF4KZ2VN4W9 OpenJS.NodeJS.LTS Docker.DockerDesktop
 ```
-Install the following apps manually:
+**Install WSL2 and configure:**
+
+Run the following command in an admin powershell
+```bash
+wsl --install
+```
+
+**Install the following apps manually:**
 - Messages for Web
 - WabbitEmu (See folder uploaded to this repo)
 - Davinci Resolve
